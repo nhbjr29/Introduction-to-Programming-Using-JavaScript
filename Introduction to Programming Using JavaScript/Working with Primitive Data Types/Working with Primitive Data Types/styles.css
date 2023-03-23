@@ -1,0 +1,10 @@
+.divstyle {
+  border: 1;
+  box-shadow: -1px -2px 3px 1px black;
+  background-color: #bbe97e;
+  text-shadow: 0 0 0px black;
+}
+div {
+  text-align: center;
+  background-color: #bbe97e;
+}
