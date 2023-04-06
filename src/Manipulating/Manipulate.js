@@ -45,4 +45,3 @@ document.getElementById("charat").innerHTML = `The character at position 5 in th
 const sentence1 =  ` It will remove extra spaces or white space.   `
 let trim = sentence1.trim();
 document.getElementById("trim").innerHTML = `This will remove extra white space just like on this string "${sentence1}" it will show this instead "${trim}"`;
-
